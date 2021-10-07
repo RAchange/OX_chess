@@ -8,6 +8,7 @@ OX_chess
 
 ## Requirements
 - GNU-g++ compiler
+- ncurses liberary
 
 ## Build
 ```
