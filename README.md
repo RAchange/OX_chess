@@ -43,7 +43,7 @@ $ ./OX_server -p 1000
 ```
 ### client
 ```
-$ ./OX_server -p 1000
+$ ./OX_client -p 1000
 ```
 #### commands
 1. To list all the online players
